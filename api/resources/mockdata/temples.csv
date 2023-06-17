@@ -1,0 +1,6 @@
+id,name,bio,deity_name,religion,region,avatar_url,banner_url,80G_certificate_issuing
+1,Tirupati Balaji,Lorem ipsum,Venkateswara,Hinduism,South,https://upload.wikimedia.org/wikipedia/commons/4/4e/Tirumala_090615.jpg,https://upload.wikimedia.org/wikipedia/commons/4/4e/Tirumala_090615.jpg,true
+2,Padhmanaswamy temple,Lorem ipsum,Vishnu,Hinduism,South,https://static.toiimg.com/photo/94357235.cms,https://static.toiimg.com/photo/94357235.cms,false
+3,Vaishnodevi,Lorem ipsum,Vaishno devi,Hinduism,North,https://static.india.com/wp-content/uploads/2020/09/vaisno1200.jpg,https://static.india.com/wp-content/uploads/2020/09/vaisno1200.jpg,true
+4,Shirdi Temple,Lorem ipsum,Sai Baba,Hinduism,West,https://static.toiimg.com/thumb/msid-88511481resizemode-4/88511481.jpg,https://static.toiimg.com/thumb/msid-88511481resizemode-4/88511481.jpg,true
+5,Kamakhya Temple,Lorem ipsum,Kamakhya,Hinduism,East,https://assets.cntraveller.in/photos/60ba14e7a1a415b43b10ba4d/master/w_1600%2Cc_limit/Kamakhya-Temple-Assam.jpg, https://assets.cntraveller.in/photos/60ba14e7a1a415b43b10ba4d/master/w_1600%2Cc_limit/Kamakhya-Temple-Assam.jpg,true

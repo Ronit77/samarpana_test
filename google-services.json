@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625761011442",
+    "project_id": "samarpana-826d4",
+    "storage_bucket": "samarpana-826d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625761011442:android:2a79e80dd9fb72e2fbb26b",
+        "android_client_info": {
+          "package_name": "com.app.samarpana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625761011442-jb6kbefpp7cst24uqsvi0qtg051set5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnvPbIS0x-NDgya95llK2l3p6FZWKgCbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625761011442-jb6kbefpp7cst24uqsvi0qtg051set5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
